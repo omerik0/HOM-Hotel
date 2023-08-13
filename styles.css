@@ -76,7 +76,7 @@ li:hover{
 #describe .container .left{
     float: left;
     width: 50%;
-    background-image: url(./img/photo-1.jpg);
+    background-image: url(photo-1.jpg);
     height: 400px;
   
  
@@ -152,7 +152,7 @@ li:hover{
 
 #recommends{
     min-height: 600px;
-    background: url(./img/test-bg.jpg) no-repeat center center /cover; 
+    background: url(test-bg.jpg) no-repeat center center /cover; 
 }
 #recommends .container{
     width: 70%;
